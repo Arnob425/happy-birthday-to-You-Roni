@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Happy Birthday Adiba 🎉</title>
+  <title>Happy Birthday Roni 🎉</title>
   <style>
     * { box-sizing: border-box; }
     body {
@@ -112,14 +112,14 @@
   <audio id="song" src="happy-birthday.mp3" loop autoplay></audio>
 
   <div class="container" id="home">
-    <h1>Happy birthday to you ADIBA 🎂</h1>
+    <h1>Happy birthday to you Roni 🎂</h1>
     <button class="btn" id="celebrateBtn">Celebrate your Birthday</button>
     <button class="btn" id="dontBtn">Don't celebrate Your Birthday</button>
   </div>
 
   <div class="celebratePage" id="celebratePage">
     <div class="celebrateCard">
-      <h1>HAPPY BIRTHDAY TO YOU ADIBA 🎉🎉</h1>
+      <h1>HAPPY BIRTHDAY TO YOU Roni 🎉🎉</h1>
       <p>Have a wonderful day full of smiles 💖</p>
     </div>
     <div style="position:fixed; right:10px; bottom:10px; font-size:14px; opacity:0.8; background:rgba(0,0,0,0.3); padding:6px 10px; border-radius:8px;">CELEBRATED BY arnob.exe_</div>
